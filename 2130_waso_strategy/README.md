@@ -2,7 +2,7 @@
 
 ### About this Project
 
-This project is aimed to simulate a real world senario were an E-Commerce platform is development and deployed using git, linux, and AWS as the cloud plaform.
+This project aims to replicate a real-world scenario where an e-commerce platform is developed and deployed using Git, Linux, and AWS as the cloud platform.
 
 ## Project Steps
 
