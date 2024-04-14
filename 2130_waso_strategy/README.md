@@ -1,12 +1,12 @@
 #**Capstone Project: E-Commerce Platform Deployment with Git, Linux, and AWS**
 
-###About this Project
+### About this Project
 
 This project is aimed to simulate a real world senario were an E-Commerce platform is development and deployed using git, linux, and AWS as the cloud plaform.
 
-##Project Steps
+## Project Steps
 
-###Version Control
+### Version Control
 
 1. **Implemented Version Control Using Git:**
 * Created a Project Directory named *MarketPeak_Ecommerce*
@@ -23,7 +23,7 @@ This project is aimed to simulate a real world senario were an E-Commerce platfo
 * Linked local repository to Github
 * Uploaded local content to remote repository
 
-###AWS Deployment
+### AWS Deployment
 
 1. Setup an AWS EC2 Instance
 2. Cloned the remote repository on the Linux Server using *Https* method
