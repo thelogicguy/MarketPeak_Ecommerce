@@ -28,6 +28,6 @@ This project is aimed to simulate a real world senario were an E-Commerce platfo
 1. Setup an AWS EC2 Instance
 2. Cloned the remote repository on the Linux Server using *Https* method
 3. Installed Apache2(httpd) Web Server on EC2
-4. Configured *httpd* for website
+4. Configured *httpd* for website.
 
   
